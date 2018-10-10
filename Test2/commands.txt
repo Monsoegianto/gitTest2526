@@ -1,1 +1,13 @@
-hi
+1. cd ~/Desktop --> mkdir Test2
+2. cd Test2 --> nano commands.txt 
+3. Repository created in github
+4. cd ~/Desktop --> git clone https://github.com/Monsoegianto/gitTest2526.git
+5. mv ~/Desktop/Test2 ~/Desktop/gitTest2526
+6. git add Test2526 --> git commit -m "added test2" --> git push origin master
+7. nano repo.txt
+8. git add repo.txt --> git commit -m "repo link added" --> git push origin master
+9. nano index.html
+10. <!DOCTYPE html>
+<html>
+</html>
+11. git add index.html --> git commit -m "added html" --> git push origin master
